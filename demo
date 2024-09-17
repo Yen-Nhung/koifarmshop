@@ -26,3 +26,67 @@ nguồn gốc xuất xứ, tình trạng sức khỏe, các giấy chứng nhậ
 - Quản lí rating, feedback
 - Quản lí hồ sơ khách hàng, lịch sử đơn hàng
 - Dashboard & Report 
+------------------------------------------------
+1. Guest (Khách Tham Quan)
+- Xem Thông Tin Trang Chủ
+ Xem giới thiệu về trang trại
+ Xem thông tin về các giống cá Koi
+ Đọc các bài viết trên blog chia sẻ và tin tức liên quan đến cá Koi
+ Xem các câu hỏi thường gặp (FAQ)
+- Tìm Kiếm Thông Tin Cá Koi
+Tìm kiếm thông tin tổng quan về cá Koi hiện có (nếu được phép xem trước)
+- Đăng Ký/Đăng Nhập
+Đăng ký tài khoản (nếu cần để truy cập thêm tính năng)
+Đăng nhập (nếu đã đăng ký)
+2. Customer (Khách Hàng)
+- Xem Thông Tin Chi Tiết Cá Koi
+Xem thông tin chi tiết về cá Koi bao gồm: nguồn gốc xuất xứ, giới tính, tuổi, kích thước, giống, tính cách, lượng thức ăn/ngày, tỷ lệ sáng lọc, và các thông tin khác
+Tìm kiếm cá Koi theo các tiêu chí: thuần chủng nhập khẩu, lai F1, thuần Việt
+- Mua Cá Koi
+Mua cá Koi theo lô hoặc cá thể
+Khi mua cá thể, nhận các giấy chứng nhận liên quan: nguồn gốc xuất xứ, tình trạng sức khỏe, và các giấy chứng nhận giải thưởng
+- Ký Gửi Cá Koi
+Ký gửi cá Koi để chăm sóc tại trang trại sau khi mua
+Ký gửi cá Koi cho trang trại bán:
+Gửi yêu cầu ký gửi, cửa hàng kiểm tra cá Koi (nếu cần), thống nhất giá ký gửi, cửa hàng thực hiện bán
+- So Sánh Cá Koi
+So sánh các cá Koi để hỗ trợ quyết định mua hàng
+- Quản Lý Hồ Sơ Cá Nhân
+Xem và chỉnh sửa thông tin hồ sơ cá nhân
+Xem lịch sử đơn hàng và trạng thái đơn hàng hiện tại
+3. Staff (Nhân Viên)
+- Quản Lý Thông Tin Cá Koi
+Cập nhật thông tin chi tiết về cá Koi trong kho
+Xử lý các yêu cầu mua và ký gửi cá Koi từ khách hàng
+- Quản Lý Đơn Hàng
+Theo dõi và xử lý các đơn hàng từ khi đặt hàng đến khi hoàn tất
+Đảm bảo việc giao hàng đúng hẹn và chất lượng cá Koi
+- Kiểm Tra Ký Gửi Cá Koi
+Kiểm tra cá Koi khi có yêu cầu ký gửi (cả online và offline)
+Xác nhận giá ký gửi và thực hiện bán cá Koi
+- Quản Lý Phản Hồi và Đánh Giá
+Theo dõi và xử lý các đánh giá và phản hồi từ khách hàng
+- Quản Lý Khuyến Mãi và Tích Điểm
+Thực hiện và quản lý các chương trình khuyến mãi
+Quản lý chương trình tích điểm cho khách hàng
+- Báo Cáo và Dashboard
+Xem và tạo báo cáo về hoạt động bán hàng
+Theo dõi các chỉ số quan trọng thông qua bảng điều khiển (dashboard)
+4. Manager (Quản Lý)
+- Quản Lý Toàn Bộ Quy Trình
+Giám sát toàn bộ quy trình bán hàng, từ việc đặt hàng đến giao hàng
+Đảm bảo quy trình ký gửi và bán cá Koi diễn ra suôn sẻ
+- Quản Lý Nhân Viên
+Quản lý và phân công công việc cho nhân viên
+Đảm bảo nhân viên thực hiện đúng các quy trình và chính sách
+- Quản Lý Tài Chính
+Theo dõi và quản lý doanh thu, chi phí và lợi nhuận
+Xem báo cáo tài chính và phân tích dữ liệu
+- Quản Lý Khuyến Mãi và Tích Điểm
+Xây dựng và quản lý các chương trình khuyến mãi
+Theo dõi và phân tích hiệu quả của các chương trình khuyến mãi
+- Quản Lý Phản Hồi và Đánh Giá
+Xem và phân tích các phản hồi và đánh giá từ khách hàng để cải thiện dịch vụ
+- Báo Cáo và Dashboard
+Tạo và xem các báo cáo tổng hợp về hoạt động kinh doanh
+Giám sát và phân tích các chỉ số qua bảng điều khiển (dashboard)
